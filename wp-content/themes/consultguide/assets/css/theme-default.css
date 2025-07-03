@@ -1,0 +1,71 @@
+/*
+theme-default.css
+*/
+
+/*--------------------------------------------------
+=>> Theme Main Slider Two
+--------------------------------------------------*/
+
+.theme-main-slider.vrsn-two .theme-slider-content .mt-4 .btn-small.btn-default {
+	border: 2px solid #ff5d20;
+}
+
+/*--------------------------------------------------
+=>> Theme Info Area
+--------------------------------------------------*/	
+
+.theme-info-area i.icon { 
+	color: #ff5d20; 
+}
+.theme-info-area .media {
+	border-bottom: 3px solid #ff5d20;
+}
+
+/*--------------------------------------------------
+=>> Theme Info Area Two
+--------------------------------------------------*/	
+
+.container.vrsn-two .theme-info-area {
+	background-color: #ff5d20;
+}	
+.container.vrsn-two .theme-info-area .media {
+	background-color: #ff5d20;
+}
+.container.vrsn-two .theme-info-area .media:hover i.icon {
+    background-color: #ff5d20;
+}	
+	
+/*--------------------------------------------------
+=>> Theme Testimonial Area
+--------------------------------------------------*/
+
+.testimonial-content.vrsn-two { 
+    background-color: #ff5d20;
+}
+.testimonial-content.vrsn-two:before {
+    border-color: #ff5d20 transparent transparent #ff5d20;
+}
+.theme-testimonial-block .position, 
+.testimonial-content.vrsn-two::before {
+    color: #ff5d20;
+}
+
+/*--------------------------------------------------
+=>> Theme Widgets Area
+--------------------------------------------------*/
+
+.widget .widget-title:after, 
+.widget .wp-block-heading:after {
+    background: #ff5d20;
+}
+.sidebar .widget .wp-block-embed .wp-element-caption a {
+	color: #ff5d20;
+}
+
+/*------------------------------------------------------------
+=>> Footer Sidebar Widget Style Css According to WordPress 5.8
+------------------------------------------------------------*/
+
+.footer-sidebar .widget .wp-block-read-more {
+    color: #ff5d20;
+}
