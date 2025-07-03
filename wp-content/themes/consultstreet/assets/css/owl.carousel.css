@@ -184,3 +184,11 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+
+.elementor-widget.elementor-widget-image > div > img{
+	height: 380PX;
+    width: 380px;
+	justify-content: center;
+	
+} 

@@ -1,14 +1,14 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
-    // Sanitize input
-    $full_name    = htmlspecialchars(trim($_POST['full_name'] ?? ''));
-    $phone        = htmlspecialchars(trim($_POST['phone'] ?? ''));
-    $email        = htmlspecialchars(trim($_POST['email'] ?? ''));
-    $city_state   = htmlspecialchars(trim($_POST['city_state'] ?? ''));
-    $puppy_name   = htmlspecialchars(trim($_POST['puppy_name'] ?? ''));
-    $puppy_breed  = htmlspecialchars(trim($_POST['puppy_breed'] ?? ''));
-    $message      = nl2br(htmlspecialchars(trim($_POST['message'] ?? '')));
+    // Sanitize inputs
+    $full_name     = htmlspecialchars(trim($_POST['full_name'] ?? ''));
+    $phone         = htmlspecialchars(trim($_POST['phone'] ?? ''));
+    $email         = htmlspecialchars(trim($_POST['email'] ?? ''));
+    $city_state    = htmlspecialchars(trim($_POST['city_state'] ?? ''));
+    $kitten_name   = htmlspecialchars(trim($_POST['puppy_name'] ?? ''));
+    $kitten_breed  = htmlspecialchars(trim($_POST['puppy_breed'] ?? ''));
+    $message       = nl2br(htmlspecialchars(trim($_POST['message'] ?? '')));
 
     // Validate required fields
     if (empty($full_name) || empty($phone) || empty($email) || empty($message)) {
@@ -16,12 +16,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         exit;
     }
 
-    // Email content (HTML)
+    // Email body (HTML formatted)
     $email_body = "
     <html>
     <head>
       <style>
-        body { font-family: Arial, sans-serif; background-color: #f7f7f7; padding: 20px; }
+        body { font-family: Times New Roman, sans-serif; background-color: #f7f7f7; padding: 20px; }
         .container { background: #fff; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
         table { width: 100%; border-collapse: collapse; }
         td { padding: 10px; vertical-align: top; }
@@ -36,17 +36,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <table>
           <tr><td class='label'>Name:</td><td class='value'>{$full_name}</td></tr>
           <tr><td class='label'>Telefonnummer:</td><td class='value'>{$phone}</td></tr>
-          <tr><td class='label'>Email:</td><td class='value'>{$email}</td></tr>
-          <tr><td class='label'>Stadt und Staat:</td><td class='value'>{$city_state}</td></tr>
-          <tr><td class='label'>Welpenname:</td><td class='value'>{$puppy_name}</td></tr>
-          <tr><td class='label'>Welpenrasse:</td><td class='value'>{$puppy_breed}</td></tr>
+          <tr><td class='label'>E-Mail:</td><td class='value'>{$email}</td></tr>
+          <tr><td class='label'>Stadt und Bundesland:</td><td class='value'>{$city_state}</td></tr>
+          <tr><td class='label'>Kätzchenname:</td><td class='value'>{$kitten_name}</td></tr>
+          <tr><td class='label'>Kätzchenrasse:</td><td class='value'>{$kitten_breed}</td></tr>
           <tr><td class='label'>Nachricht:</td><td class='value'>{$message}</td></tr>
         </table>
       </div>
     </body>
     </html>";
 
-    // Email headers
+    // Email settings
     $to = "mijamkittenshome@gmail.com";
     $subject = "Neue Kontaktanfrage von " . $full_name;
 
@@ -57,28 +57,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     // Send email
     if (mail($to, $subject, $email_body, $headers)) {
-        // Optionally log to file
-        $log = "Name: $full_name\nTelefon: $phone\nEmail: $email\nStadt & Staat: $city_state\nWelpenname: $puppy_name\nWelpenrasse: $puppy_breed\nNachricht:\n$message\n----------------------\n";
-        file_put_contents(__DIR__ . '/form_submissions.txt', $log, FILE_APPEND);
+        // Save to log file
+        $log_entry = "Name: $full_name\nTelefon: $phone\nEmail: $email\nStadt & Bundesland: $city_state\nKätzchenname: $kitten_name\nKätzchenrasse: $kitten_breed\nNachricht:\n$message\n----------------------\n";
+        file_put_contents(__DIR__ . '/form_submissions.txt', $log_entry, FILE_APPEND);
 
-        echo "Vielen Dank! Ihre Nachricht wurde erfolgreich gesendet.";
+        // Redirect to success page
+        header("Location: /success.html");
+        exit;
     } else {
         echo "Fehler beim Senden der Nachricht. Bitte versuchen Sie es später erneut.";
     }
 
 } else {
     echo "Ungültige Anforderung.";
-}
-
-// Send email
-if (mail($to, $subject, $email_body, $headers)) {
-    // Log to file
-    $log = "Name: $full_name\nTelefon: $phone\nEmail: $email\nStadt & Staat: $city_state\nWelpenname: $puppy_name\nWelpenrasse: $puppy_breed\nNachricht:\n$message\n----------------------\n";
-    file_put_contents(__DIR__ . '/form_submissions.txt', $log, FILE_APPEND);
-
-    // Redirect to success page in home directory
-    header("Location: /succes.html");
-    exit;  // important to stop further execution
-} else {
-    echo "Fehler beim Senden der Nachricht. Bitte versuchen Sie es später erneut.";
 }
