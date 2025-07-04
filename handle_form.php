@@ -6,8 +6,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $phone         = htmlspecialchars(trim($_POST['phone'] ?? ''));
     $email         = htmlspecialchars(trim($_POST['email'] ?? ''));
     $city_state    = htmlspecialchars(trim($_POST['city_state'] ?? ''));
-    $kitten_name   = htmlspecialchars(trim($_POST['puppy_name'] ?? ''));
-    $kitten_breed  = htmlspecialchars(trim($_POST['puppy_breed'] ?? ''));
+    $kitten_name   = htmlspecialchars(trim($_POST['Kitten_name'] ?? ''));
+    $kitten_breed  = htmlspecialchars(trim($_POST['Kitten_breed'] ?? ''));
     $message       = nl2br(htmlspecialchars(trim($_POST['message'] ?? '')));
 
     // Validate required fields

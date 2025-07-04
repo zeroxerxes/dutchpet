@@ -1206,15 +1206,15 @@ Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/doodle.jpg
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\doodle.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/image/Bengal Kittens/Bianca Female 1.jpg
+Uri: https://blaueozeanWelpen.de/image/Bengal Kätzchen/Bianca Female 1.jpg
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\duttonthebluenose-20240515-0003-1024x1024.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/image/Bengal Kittens/Bianca Female 1.jpg
+Uri: https://blaueozeanWelpen.de/image/Bengal Kätzchen/Bianca Female 1.jpg
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\duttonthebluenose-20240515-0003-150x150.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/image/Bengal Kittens/Bianca Female 1.jpg
+Uri: https://blaueozeanWelpen.de/image/Bengal Kätzchen/Bianca Female 1.jpg
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\duttonthebluenose-20240515-0003-300x300.jpg
 Content Type: image/jpeg
 
@@ -1266,24 +1266,24 @@ Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/french.jpg
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\french.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchpuppy_archibald-20240514-0001-1234x1536.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchpuppy_archibald-20240514-0001-1234x1536.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchKitten_archibald-20240514-0001-1234x1536.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchKitten_archibald-20240514-0001-1234x1536.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchpuppy_archibald-20240514-0001-241x300.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchpuppy_archibald-20240514-0001-241x300.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchKitten_archibald-20240514-0001-241x300.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchKitten_archibald-20240514-0001-241x300.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchpuppy_archibald-20240514-0001-768x956.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchpuppy_archibald-20240514-0001-768x956.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchKitten_archibald-20240514-0001-768x956.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchKitten_archibald-20240514-0001-768x956.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchpuppy_archibald-20240514-0001-823x1024.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchpuppy_archibald-20240514-0001-823x1024.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchKitten_archibald-20240514-0001-823x1024.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchKitten_archibald-20240514-0001-823x1024.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchpuppy_archibald-20240514-0001.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchpuppy_archibald-20240514-0001.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/frenchKitten_archibald-20240514-0001.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\frenchKitten_archibald-20240514-0001.jpg
 Content Type: image/jpeg
 
 Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/french_bulldog_madunic-20240514-0001-1229x1536.jpg
@@ -1582,20 +1582,20 @@ Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/jp29americanbully-20
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\jp29americanbully-20240509-0059.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.puppy-20240512-0006-1024x768.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.puppy-20240512-0006-1024x768.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.Kitten-20240512-0006-1024x768.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.Kitten-20240512-0006-1024x768.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.puppy-20240512-0006-300x225.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.puppy-20240512-0006-300x225.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.Kitten-20240512-0006-300x225.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.Kitten-20240512-0006-300x225.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.puppy-20240512-0006-768x576.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.puppy-20240512-0006-768x576.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.Kitten-20240512-0006-768x576.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.Kitten-20240512-0006-768x576.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.puppy-20240512-0006.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.puppy-20240512-0006.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/kiwi.the_.chihuahua.Kitten-20240512-0006.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\kiwi.the_.chihuahua.Kitten-20240512-0006.jpg
 Content Type: image/jpeg
 
 Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/klaustheschnauz_-20240509-0005-150x150.jpg
@@ -1698,40 +1698,40 @@ Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo-768x768.jpg
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo-768x768.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_puppy_loves-20240517-0001-1229x1536.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_puppy_loves-20240517-0001-1229x1536.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_Kitten_loves-20240517-0001-1229x1536.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_Kitten_loves-20240517-0001-1229x1536.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_puppy_loves-20240517-0001-240x300.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_puppy_loves-20240517-0001-240x300.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_Kitten_loves-20240517-0001-240x300.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_Kitten_loves-20240517-0001-240x300.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_puppy_loves-20240517-0001-768x960.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_puppy_loves-20240517-0001-768x960.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_Kitten_loves-20240517-0001-768x960.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_Kitten_loves-20240517-0001-768x960.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_puppy_loves-20240517-0001-819x1024.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_puppy_loves-20240517-0001-819x1024.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_Kitten_loves-20240517-0001-819x1024.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_Kitten_loves-20240517-0001-819x1024.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_puppy_loves-20240517-0001.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_puppy_loves-20240517-0001.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo_Kitten_loves-20240517-0001.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo_Kitten_loves-20240517-0001.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__puppy-20240517-0001-1024x691.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__puppy-20240517-0001-1024x691.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__Kitten-20240517-0001-1024x691.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__Kitten-20240517-0001-1024x691.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__puppy-20240517-0001-300x202.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__puppy-20240517-0001-300x202.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__Kitten-20240517-0001-300x202.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__Kitten-20240517-0001-300x202.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__puppy-20240517-0001-768x518.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__puppy-20240517-0001-768x518.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__Kitten-20240517-0001-768x518.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__Kitten-20240517-0001-768x518.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__puppy-20240517-0001.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__puppy-20240517-0001.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/maltipoo__Kitten-20240517-0001.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\maltipoo__Kitten-20240517-0001.jpg
 Content Type: image/jpeg
 
 Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/mila_lewis_pomeranian-20240515-0006-1024x1024.jpg
@@ -1846,20 +1846,20 @@ Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/nuggetvangogh-202405
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\nuggetvangogh-20240509-0005.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_puppy-20240517-0001-240x300.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_puppy-20240517-0001-240x300.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_Kitten-20240517-0001-240x300.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_Kitten-20240517-0001-240x300.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_puppy-20240517-0001-768x960.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_puppy-20240517-0001-768x960.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_Kitten-20240517-0001-768x960.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_Kitten-20240517-0001-768x960.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_puppy-20240517-0001-819x1024.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_puppy-20240517-0001-819x1024.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_Kitten-20240517-0001-819x1024.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_Kitten-20240517-0001-819x1024.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_puppy-20240517-0001.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_puppy-20240517-0001.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/pepper_the_maltipoo_Kitten-20240517-0001.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\pepper_the_maltipoo_Kitten-20240517-0001.jpg
 Content Type: image/jpeg
 
 Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/phoebe_thegoldenretrieverpup-20240516-0002-1229x1536.jpg
@@ -2186,24 +2186,24 @@ Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/willowmaysilver-2024
 File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\willowmaysilver-20240515-0011.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipoopuppy-20240517-0001-1024x1024.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipoopuppy-20240517-0001-1024x1024.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipooKitten-20240517-0001-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipooKitten-20240517-0001-1024x1024.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipoopuppy-20240517-0001-150x150.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipoopuppy-20240517-0001-150x150.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipooKitten-20240517-0001-150x150.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipooKitten-20240517-0001-150x150.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipoopuppy-20240517-0001-300x300.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipoopuppy-20240517-0001-300x300.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipooKitten-20240517-0001-300x300.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipooKitten-20240517-0001-300x300.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipoopuppy-20240517-0001-768x768.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipoopuppy-20240517-0001-768x768.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipooKitten-20240517-0001-768x768.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipooKitten-20240517-0001-768x768.jpg
 Content Type: image/jpeg
 
-Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipoopuppy-20240517-0001.jpg
-File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipoopuppy-20240517-0001.jpg
+Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/winnie_themaltipooKitten-20240517-0001.jpg
+File Name: C:\Downloaded Web Sites\blaueozeanWelpen.de\wp-content\uploads\2024\05\winnie_themaltipooKitten-20240517-0001.jpg
 Content Type: image/jpeg
 
 Uri: https://blaueozeanWelpen.de/wp-content/uploads/2024/05/xokostore-20240515-0001-1024x1024.jpg
