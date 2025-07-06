@@ -1431,7 +1431,7 @@ body.custom-background .theme-services {
 }
 .theme-blog .post .entry-header { position: relative; margin: 0 0 0.938rem; }
 .theme-blog .post .entry-title { margin: 0; font-size: 1.375rem; font-weight: 600; word-break: break-word; white-space: normal; }
-.entry-content img { max-width: 100%; height: auto; display: block; }
+.entry-content img { width: 350px; height: 400px; display: block;  }
 .entry-content figure { width: auto !important; }
 .entry-content a {  
 	box-shadow: 0 1px 0 0 currentColor; 
