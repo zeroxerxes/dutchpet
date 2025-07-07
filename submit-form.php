@@ -10,8 +10,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = nl2br(htmlspecialchars(trim($_POST['message'] ?? ''))); // Allow line breaks
 
     // Destination email
-    $to = "brandonasah11@gmail.com";
-    $subject = "üê± Neue K√§tzchen-Anfrage von $fullName";
+    $to = "audienceaura.org@gmail.com";
+    $subject = "?? Neue K‰tzchen-Anfrage von $fullName";
 
     // HTML email body
     $body = "
@@ -27,13 +27,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </head>
     <body>
       <div class='email-container'>
-        <h2>Neue K√§tzchen-Anfrage</h2>
+        <h2>Neue K‰tzchen-Anfrage</h2>
         <div class='info'><span class='label'>Name:</span> $fullName</div>
         <div class='info'><span class='label'>Telefon:</span> $phone</div>
         <div class='info'><span class='label'>E-Mail:</span> $email</div>
         <div class='info'><span class='label'>Stadt / Bundesland:</span> $cityState</div>
-        <div class='info'><span class='label'>K√§tzchenname:</span> $kittenName</div>
-        <div class='info'><span class='label'>K√§tzchenrasse:</span> $kittenBreed</div>
+        <div class='info'><span class='label'>K‰tzchenname:</span> $kittenName</div>
+        <div class='info'><span class='label'>K‰tzchenrasse:</span> $kittenBreed</div>
         <div class='info'><span class='label'>Nachricht:</span><br>$message</div>
       </div>
     </body>
@@ -43,15 +43,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Email headers
     $headers  = "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=UTF-8\r\n";
-    $headers .= "From: no-reply@pawofcomfort.com\r\n";
+    $headers .= "From: no-reply@xn--mijamktzchenzuhause-vzb.de\r\n"; // Punycode for 'mijamk‰tzchenzuhause.de'
     $headers .= "Reply-To: $email\r\n";
 
     // Send email and redirect
     if (mail($to, $subject, $body, $headers)) {
-        header("Location: thank-you.html"); // Optional: create a "thank-you.html" page
+        header("Location: thank-you.html");
         exit();
     } else {
-        echo "‚ùå E-Mail-Versand fehlgeschlagen. Bitte versuchen Sie es erneut.";
+        echo "? E-Mail-Versand fehlgeschlagen. Bitte versuchen Sie es erneut.";
     }
 } else {
     header("Location: index.html");
