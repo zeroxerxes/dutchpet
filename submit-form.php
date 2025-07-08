@@ -13,11 +13,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $phone = htmlspecialchars(trim($_POST['phone'] ?? ''));
     $email = htmlspecialchars(trim($_POST['email'] ?? ''));
     $cityState = htmlspecialchars(trim($_POST['city_state'] ?? ''));
-    $kittenName = htmlspecialchars(trim($_POST['kitten_name'] ?? ''));
-    $kittenBreed = htmlspecialchars(trim($_POST['kitten_breed'] ?? ''));
+    $kittenName = htmlspecialchars(trim($_POST['kitten_name'] ?? ''), ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+    $kittenBreed = htmlspecialchars(trim($_POST['kitten_breed'] ?? ''), ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
     $message = nl2br(htmlspecialchars(trim($_POST['message'] ?? '')));
 
     $mail = new PHPMailer(true);
+
+    // Set charset to UTF-8 here:
+    $mail->CharSet = 'UTF-8';
 
     try {
         // SMTP configuration for Titan
@@ -29,13 +32,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
-        // Email content
-        $mail->setFrom('info@xn--mijamktzchenzuhause-lwb.de', 'Website Form');
+        // Use your authorized info@ as sender with a custom display name
+        $mail->setFrom('info@xn--mijamktzchenzuhause-lwb.de', 'Website Submission');
         $mail->addAddress('info@xn--mijamktzchenzuhause-lwb.de');
         $mail->addReplyTo($email, $fullName);
 
         $mail->isHTML(true);
-        $mail->Subject = "?? Neue Kätzchen-Anfrage von $fullName";
+        $mail->Subject = mb_encode_mimeheader("?? Neue Kätzchen-Anfrage von $fullName", 'UTF-8', 'B');
         $mail->Body = "
         <html>
         <head>
