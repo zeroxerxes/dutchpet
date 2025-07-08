@@ -18,8 +18,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = nl2br(htmlspecialchars(trim($_POST['message'] ?? '')));
 
     $mail = new PHPMailer(true);
-
-    // Set charset to UTF-8 here:
     $mail->CharSet = 'UTF-8';
 
     try {
@@ -28,17 +26,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       = 'smtp.titan.email';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'info@xn--mijamktzchenzuhause-lwb.de';
-        $mail->Password   = 'Talktome@123'; // Your Titan email password
+        $mail->Password   = 'Talktome@123'; // Replace with your real Titan password
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
-        // Use your authorized info@ as sender with a custom display name
+        // Sender and recipient settings
         $mail->setFrom('info@xn--mijamktzchenzuhause-lwb.de', 'Website Submission');
-        $mail->addAddress('info@xn--mijamktzchenzuhause-lwb.de');
+        $mail->addAddress('mijamkittenshome@gmail.com'); // ? Changed to Gmail inbox
         $mail->addReplyTo($email, $fullName);
 
         $mail->isHTML(true);
         $mail->Subject = mb_encode_mimeheader("?? Neue Kätzchen-Anfrage von $fullName", 'UTF-8', 'B');
+
+        // Styled HTML body
         $mail->Body = "
         <html>
         <head>
